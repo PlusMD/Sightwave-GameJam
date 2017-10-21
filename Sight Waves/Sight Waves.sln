@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{76733AF0-2D78-A0BF-51AB-50C8596D57EC}") = "Sight Waves", "Assembly-CSharp-firstpass.csproj", "{DB27B79B-A1FE-BFD1-534C-15D32227EB14}"
+EndProject
+Project("{76733AF0-2D78-A0BF-51AB-50C8596D57EC}") = "Sight Waves", "Assembly-CSharp.csproj", "{16AD965A-0724-75A5-8B80-E2C825AEF0FA}"
+EndProject
+Project("{76733AF0-2D78-A0BF-51AB-50C8596D57EC}") = "Sight Waves", "Assembly-CSharp-Editor.csproj", "{5F2A21C7-E823-D770-D8CC-376CACA7A1A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB27B79B-A1FE-BFD1-534C-15D32227EB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB27B79B-A1FE-BFD1-534C-15D32227EB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB27B79B-A1FE-BFD1-534C-15D32227EB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB27B79B-A1FE-BFD1-534C-15D32227EB14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16AD965A-0724-75A5-8B80-E2C825AEF0FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AD965A-0724-75A5-8B80-E2C825AEF0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AD965A-0724-75A5-8B80-E2C825AEF0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AD965A-0724-75A5-8B80-E2C825AEF0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2A21C7-E823-D770-D8CC-376CACA7A1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2A21C7-E823-D770-D8CC-376CACA7A1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2A21C7-E823-D770-D8CC-376CACA7A1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2A21C7-E823-D770-D8CC-376CACA7A1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
